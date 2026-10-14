@@ -10,7 +10,7 @@ Me chamo Dhara Harumi, tenho 19 anos e moro em São Paulo - SP. Atualmente curso
  
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/9ebe8202-1a4d-44e7-bf53-328148940b54">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -93,3 +93,4 @@ Me chamo Dhara Harumi, tenho 19 anos e moro em São Paulo - SP. Atualmente curso
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
 </picture>
+
